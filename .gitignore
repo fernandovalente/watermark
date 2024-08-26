@@ -1,0 +1,29 @@
+# Distribution / packaging
+.git/
+.Python
+dist/
+eggs/
+.eggs/
+*.egg/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+**/__pycache__/*
+*.py[cod]
+.vscode/
+venv/
+.venv/
+.idea/
+
+# env files
+local.env
+prod.env
+homolog.env
+develop.env
+
+# folders
+media/
+
+# Logging
+*.log
